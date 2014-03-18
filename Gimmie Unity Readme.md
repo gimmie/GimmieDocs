@@ -3,9 +3,9 @@
 
 Add Gimmie in
 -------------
-Extract the plugin and drop the files into Assets/Plugins.
-Create a binding class, you can use a basic one here: [GimmieBinding.cs](https://raw.github.com/kakadadroid/GimmieDocs/master/Unity%20Example/GimmieBinding.cs).
-Modify/create your AndroidManifest.xml to include all the Gimmie declarations. See [example here](https://raw.github.com/kakadadroid/GimmieDocs/blob/master/Unity%20Example/AndroidManifest.xml).
+- Extract the plugin and drop the files into Assets/Plugins.
+- Create a binding class, you can use a basic one here: [GimmieBinding.cs](https://raw.github.com/kakadadroid/GimmieDocs/master/Unity%20Example/GimmieBinding.cs).
+- Modify/create your AndroidManifest.xml to include all the Gimmie declarations. See [example here](https://raw.github.com/kakadadroid/GimmieDocs/blob/master/Unity%20Example/AndroidManifest.xml).
 
 The structure should look like this:
 ```
